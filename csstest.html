@@ -4,8 +4,13 @@
 		<title>Random things!</title>
 		<style>
 			label {
-				line-height: 16px;
-				height: 16px;
+				line-height: 20px;
+				height: 20px;
+				cursor: pointer;
+				-moz-user-select: none;
+				  -webkit-user-select: none;
+				  -ms-user-select: none;
+				  background-color: #efefef;
 			}
 			label input[type='checkbox']::after {
 				position:relative;
@@ -15,7 +20,13 @@
 				width: 16px;
 				border: 2px solid black;
 				left:9999px;
-				margin-right: 2px;
+				top: -4px;
+				margin-right: 6px;
+				-webkit-transition: background-color 0.2s;
+				-moz-transition: background-color 0.2s;
+				-ms-transition: background-color 0.2s;
+				transition: background-color 0.2s;
+				
 			}
 
 			label input[type='checkbox']:checked::after {
@@ -24,6 +35,8 @@
 			label input[type='checkbox'] {
 				position: relative;
 				left: -9999px;
+				margin-right: 3px;
+
 			}
 		</style>
 	</head>
