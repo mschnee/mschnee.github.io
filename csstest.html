@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Random things!</title>
+		<style>
+			label {
+				line-height: 16px;
+				height: 16px;
+			}
+			label input[type='checkbox']::after {
+				position:relative;
+				content: "";
+				display: inline-block;
+				height: 16px;
+				width: 16px;
+				border: 2px solid black;
+				left:9999px;
+				margin-right: 2px;
+			}
+
+			label input[type='checkbox']:checked::after {
+				background-color: black;
+			}
+			label input[type='checkbox'] {
+				position: relative;
+				left: -9999px;
+			}
+		</style>
+	</head>
+	<body>
+	<label>
+		<input type="checkbox" /> This is a checkbox.
+	</label>
+	</body>
+</html>
