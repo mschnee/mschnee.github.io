@@ -2,7 +2,7 @@
 matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee) | Rischerion#1429
 
 # History
-Working at Blizzard is intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
+Working in the game industry is intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
 
 ### Senior Software Engineer
 January 2016  - Present @ __Curse / Twitch / Amazon__
