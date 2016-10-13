@@ -1,4 +1,5 @@
-﻿# Matthew Schnee
+﻿Matthew Schnee
+==============
 matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee) | Rischerion#1429
 
 # History
