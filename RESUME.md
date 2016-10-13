@@ -5,9 +5,10 @@ matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://git
 Working in the game industry is intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
 
 ### Senior Software Engineer
-January 2016  - Present @ __Curse / Twitch / Amazon__
+January 2016 - October 2016 @ __Curse / Twitch / Amazon__
 
-Desktop, Backend, and Front-End engineering.  Try it at [Curse](https://www.curse.com/login)
+Worked with multiple development, product, and design teams to plan, prioritize, engineere, and implement complex full-stack systems, which all ties together into the best VOIP communication app for gamers there is.  Try it at [Curse](https://www.curse.com/login)
+Desktop, Backend, and Front-End engineering, working primarily with TypeScript, React, React Native, C#, C++, and Electron.
 
 ### Software Engineer
 January 2015 - January 2016 @ __Blizzard Entertainment - Battle.net__
