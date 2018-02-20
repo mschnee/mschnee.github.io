@@ -1,9 +1,19 @@
-﻿Matthew Schnee
+Matthew Schnee
 ==============
 matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee) | Rischerion#1429
 
 # History
 Working in the game industry is intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
+
+### (acting) Principal Software Engineer
+November 2017 - current @ __eharmony__
+
+Leading the thechnical modernization of eharmony's public web platform.  Our notable achievements include: 
+- Securing the entirety of eharmony with HTTPS, no mean feat given 17 years of code and over indivudual 30,000 pages; 
+- Establishing code design and maintenance patterns as a part of our in-progress plan to make eharmony a 100% progressive web application.
+- Automated coverage, unit testing, and deploy verification for all web components (and we have a lot of them).
+- 100% testing and performance monitoring for the most critical parts of eharmony for our users: our communication platform (see my forthcoming blog post)
+- Design and deployment of a static asset deployment pipeline.  I have a blog post about this too coming up.
 
 ### Senior Software Engineer
 January 2016 - October 2016 @ __Curse / Twitch / Amazon__
