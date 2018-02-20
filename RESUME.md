@@ -3,7 +3,7 @@ Matthew Schnee
 matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee) | Rischerion#1429
 
 # History
-Working in the game industry is intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
+Engineering and deploying web applications for use by human beings can be intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
 
 ### (acting) Principal Software Engineer
 November 2017 - current @ __eharmony__
