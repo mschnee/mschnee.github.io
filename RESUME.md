@@ -11,7 +11,7 @@ June 2018 - current @ __StudyKIK__
 - Managed the migration of expensive processes and tasks into serverless lambda functions while maintaining HIPAA compliance.
 - Designed and established patterns for a long-term infrastructure project.
 - Led an efford to establish robust statistics and metrics using Elasticsearch.
-- Teach and maintain patterns and best practices for end-to-end integration testing across a robust cloud architecture.
+- Taught and maintained patterns and best practices for end-to-end integration testing across a robust cloud architecture.
 
 ### Principal Software Engineer
 November 2016 - June 2018 @ __eharmony__
@@ -42,7 +42,7 @@ Front-end and back-end engineering work in Content, Account Management, with con
 ### Buzzwords
 Hey, you know you want 'em.
 
-[Apache HTTPD](https://httpd.apache.org/), [C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md), [confluence](https://www.atlassian.com/software/confluence), [CSS](http://sass-lang.com/), [gulp](http://gulpjs.com/), [babel](https://babeljs.io/), [browserify](http://browserify.org/), [git](https://git-scm.com/), [Java](https://www.jetbrains.com/idea/), [JavaScript](http://www.ecma-international.org/ecma-262/6.0/), [Jenkins](https://jenkins-ci.org/), [JIRA](https://www.atlassian.com/software/jira), [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html), [Linux](https://www.gentoo.org/), [nginx](https://www.nginx.com/), [NPM](https://www.npmjs.com/), [NodeJS](https://nodejs.org/en/), [React](https://facebook.github.io/react/), [Spring](http://spring.io/)
+[Apache HTTPD](https://httpd.apache.org/), [C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md), [confluence](https://www.atlassian.com/software/confluence), [CSS](http://sass-lang.com/), [gulp](http://gulpjs.com/), [babel](https://babeljs.io/), [browserify](http://browserify.org/), [git](https://git-scm.com/), [Java](https://www.jetbrains.com/idea/), [JavaScript](http://www.ecma-international.org/ecma-262/6.0/), [Jenkins](https://jenkins-ci.org/), [JIRA](https://www.atlassian.com/software/jira), [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html), [Linux](https://www.gentoo.org/), [nginx](https://www.nginx.com/), [NPM](https://www.npmjs.com/), [NodeJS](https://nodejs.org/en/), [React](https://facebook.github.io/react/), [Spring](http://spring.io/), [Loopback](https://github.com/strongloop/loopback), [AWS](https://aws.amazon.com), [mister](https://github.com/mschnee/mister), [webpack](https://webpack.js.org/), [TypeScript](https://www.typescriptlang.org/)
 
 # Ancient History
 ### Engineer
