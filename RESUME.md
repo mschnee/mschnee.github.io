@@ -14,7 +14,7 @@ June 2018 - current @ __StudyKIK__
 - Teach and maintain patterns and best practices for end-to-end integration testing across a robust cloud architecture.
 
 ### Principal Software Engineer
-November 2017 - June 2018 @ __eharmony__
+November 2016 - June 2018 @ __eharmony__
 
 Leading the thechnical modernization of eharmony's public web platform.  Our notable achievements include: 
 - Securing the entirety of eharmony with HTTPS, no mean feat given 17 years of code and over indivudual 30,000 pages; 
