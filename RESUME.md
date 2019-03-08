@@ -1,19 +1,27 @@
 Matthew Schnee
 ==============
-matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee) | Rischerion#1429
+matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://github.com/mschnee)
 
 # History
 Engineering and deploying web applications for use by human beings can be intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
 
-### (acting) Principal Software Engineer
-November 2017 - current @ __eharmony__
+### Principal Software Engineer
+June 2018 - current @ __StudyKIK__
+
+- Managed the migration of expensive processes and tasks into serverless lambda functions while maintaining HIPAA compliance.
+- Designed and established patterns for a long-term infrastructure project.
+- Led an efford to establish robust statistics and metrics using Elasticsearch.
+- Teach and maintain patterns and best practices for end-to-end integration testing across a robust cloud architecture.
+
+### Principal Software Engineer
+November 2017 - June 2018 @ __eharmony__
 
 Leading the thechnical modernization of eharmony's public web platform.  Our notable achievements include: 
 - Securing the entirety of eharmony with HTTPS, no mean feat given 17 years of code and over indivudual 30,000 pages; 
 - Establishing code design and maintenance patterns as a part of our in-progress plan to make eharmony a 100% progressive web application.
 - Automated coverage, unit testing, and deploy verification for all web components (and we have a lot of them).
 - 100% testing and performance monitoring for the most critical parts of eharmony for our users: our communication platform (see my forthcoming blog post)
-- Design and deployment of a static asset deployment pipeline.  I have a blog post about this too coming up.
+- Design and deployment of a static asset deployment pipeline.
 
 ### Senior Software Engineer
 January 2016 - October 2016 @ __Curse / Twitch / Amazon__
