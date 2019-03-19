@@ -6,7 +6,7 @@ matthew.schnee@gmail.com | [web](http://matthew.engineer) | [github](https://git
 Engineering and deploying web applications for use by human beings can be intense and fast-paced.  We work with a lot of different cutting-edge technology to accomplish an insane amount of incredible work.  It's probably too much to list for a resume.  For a small sample of the kinds of things I've worked on, look at [PORTFOLIO.md](PORTFOLIO.md)
 
 ### Principal Software Engineer
-June 2018 - current @ __StudyKIK__
+June 2018 - March 2019 @ __StudyKIK__
 
 - Managed the migration of expensive processes and tasks into serverless lambda functions while maintaining HIPAA compliance.
 - Designed and established patterns for a long-term infrastructure project.
